@@ -77,12 +77,6 @@ This dataset contains transactional records from a retail store, combining item,
 
 ---
 
-## 👨‍💻 Developed By
-
-**Dipesh Yadav**  
-
----
-
 ## 📎 How to Use
 
 1. Clone this repository:
